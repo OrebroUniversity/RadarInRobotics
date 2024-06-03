@@ -1,2 +1,2 @@
 # RadarInRobotics
-Material from Radar in Robotics workshops
+Material from the Radar in Robotics workshop at ICRA 2024 https://sites.google.com/view/radar-robotics
